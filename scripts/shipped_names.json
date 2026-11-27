@@ -1,0 +1,20 @@
+{
+  "marketplace": [
+    "acsi-agentskills"
+  ],
+  "plugins": [
+    "acsi-anything-anywhere",
+    "acsi-coding-anywhere",
+    "acsi-coding-local",
+    "acsi-non-coding-local",
+    "example-site-platform"
+  ],
+  "skills": [
+    "acsi-coding-anywhere/debug-github-workflows",
+    "acsi-coding-anywhere/github-actions-repo-settings",
+    "acsi-coding-anywhere/skills-doctor",
+    "acsi-coding-anywhere/vendor-release-impact-issues",
+    "acsi-coding-anywhere/workflow-path-audit",
+    "acsi-coding-local/sync-skills"
+  ]
+}

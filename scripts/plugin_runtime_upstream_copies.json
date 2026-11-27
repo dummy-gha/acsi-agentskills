@@ -1,0 +1,10 @@
+{
+  "copies": [
+    {
+      "path": "plugins/acsi-anything-anywhere/hooks/fleet-guidance/fleet-guidance.md",
+      "upstream_repo": "dummy-gha/_agent-guidance",
+      "upstream_branch": "main",
+      "upstream_path": "agents-md/base.md"
+    }
+  ]
+}
