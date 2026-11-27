@@ -680,7 +680,7 @@ jobs:
         uses: actions/checkout@v7.0.1
         with:
           repository: dummy-gha/_agent-guidance
-          ref: fcfaac81c320ddafb58f3a8724960f64232b3eea
+          ref: 6ef1721d799c9562818a9154bfbaf31d5fe16604
           path: .eval-protection-gate
           persist-credentials: false
           sparse-checkout: |
