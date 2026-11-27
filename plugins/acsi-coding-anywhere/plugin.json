@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "acsi-coding-anywhere",
+  "version": "2.0.2",
+  "description": "Coding skills for Claude Code terminals and Claude Code cloud sessions.",
+  "author": { "name": "dummy-gha" },
+  "repository": "https://github.com/dummy-gha/acsi-agentskills",
+  "keywords": [
+    "skills",
+    "coding",
+    "claude-code"
+  ]
+}
