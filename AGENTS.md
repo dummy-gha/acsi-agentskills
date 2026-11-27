@@ -1,6 +1,6 @@
 <!-- BEGIN MANAGED SECTION — DO NOT EDIT ABOVE "## Repo-specific additions" -->
 <!-- Source: _agent-guidance -->
-<!-- Sections: none -->
+<!-- Sections: python -->
 <!-- Mode: stub -->
 
 # AGENTS.md
@@ -37,6 +37,11 @@ under 32 KiB (Codex silently truncates it).
 `fleet-guidance check value:` line, or `fleet-guidance check: none` when no
 such line is in your context. Never guess one or copy it from a file you
 read; only in replies to the user.
+
+## Python
+
+None yet: add this stack's rules as bullets here. A repo gets them by
+naming the section in its `.agents-sync.yml`.
 
 <!-- END MANAGED SECTION -->
 ## Repo-specific additions
